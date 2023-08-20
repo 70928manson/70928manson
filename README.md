@@ -1,20 +1,23 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there!
 
-[![][resume-badge]][resume]  [![][linkedin-badge]]([https://www.linkedin.com/in/weihanglo](https://www.linkedin.com/in/%E9%96%94%E7%BF%94-%E8%A8%B1-423584256/))
+
+[![resume-badge]][resume]  [![linkedin-badge]]([https://www.linkedin.com/in/weihanglo](https://www.linkedin.com/in/%E9%96%94%E7%BF%94-%E8%A8%B1-423584256/))
 
 
-Hello! I am Manson.
+Hello! I am Manson. Welcome to my Github page~
 
 * Professional React developer .
-* Maintainer of [the Cargo project][cargo].
-* Active member and organizer of [the Rust Taiwan community][rust-tw].
+* Former member and organizer of [NCKU History Convey Official Website team].
 * Currently focus on build systems and tools development.
 
-You can contact me by clicking badges above, or just [submit a new issue] directly 😀.
+You can contact me by clicking href above, or just [submit a new issue] directly 😀.
+
+https://img.shields.io/badge/Résumé-f48300?style=for-the-badge&logoColor=white&logo=rust
 
 [resume]: https://www.cakeresume.com/s--gcn8sN5daZrnEcGfn7vC-w--/b34076026
-[resume-badge]: https://www.cakeresume.com/s--gcn8sN5daZrnEcGfn7vC-w--/b34076026
-[linkedin-badge]: https://www.linkedin.com/in/%E9%96%94%E7%BF%94-%E8%A8%B1-423584256/
+[resume-badge]: https://img.shields.io/badge/Résumé-f48300?style=for-the-badge&logoColor=white&logo=rust
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[NCKU History Convey Official Website team]: https://www.facebook.com/nckuhisdrama
 
 [submit a new issue]: https://github.com/70928manson/70928manson/issues/new
 
