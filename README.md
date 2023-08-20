@@ -12,8 +12,6 @@ Hello! I am Manson. Welcome to my Github page~
 
 You can contact me by clicking badge above, or just [submit a new issue] directly 😀.
 
-https://img.shields.io/badge/Résumé-f48300?style=for-the-badge&logoColor=white&logo=rust
-
 [resume]: https://www.cakeresume.com/s--gcn8sN5daZrnEcGfn7vC-w--/b34076026
 [resume-badge]: https://img.shields.io/badge/Résumé-f48300?style=for-the-badge&logoColor=white&logo=rust
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
