@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there!
 
 
-[![resume-badge]][resume]  [![linkedin-badge]]([https://www.linkedin.com/in/weihanglo](https://www.linkedin.com/in/%E9%96%94%E7%BF%94-%E8%A8%B1-423584256/))
+[![resume-badge]][resume]  [![linkedin-badge]](https://www.linkedin.com/in/%E9%96%94%E7%BF%94-%E8%A8%B1-423584256/)
 
 
 Hello! I am Manson. Welcome to my Github page~
