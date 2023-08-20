@@ -8,9 +8,9 @@ Hello! I am Manson. Welcome to my Github page~
 
 * Professional React developer .
 * Former member and organizer of [NCKU History Convey Official Website team].
-* Currently focus on build systems and tools development.
+* Currently focus on building fun apps, tools development and keep learing.
 
-You can contact me by clicking href above, or just [submit a new issue] directly 😀.
+You can contact me by clicking badge above, or just [submit a new issue] directly 😀.
 
 https://img.shields.io/badge/Résumé-f48300?style=for-the-badge&logoColor=white&logo=rust
 
