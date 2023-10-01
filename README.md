@@ -1,5 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there!
-
+# <img src="https://emojis.slackmojis.com/emojis/images/1653068415/59246/bolb-sunglasses.jpg?1653068415" width="30"/> Hello there!
 
 [![resume-badge]][resume]  [![linkedin-badge]](https://www.linkedin.com/in/%E9%96%94%E7%BF%94-%E8%A8%B1-423584256/)
 
@@ -10,7 +9,7 @@ Hello! I am Manson. Welcome to my Github page~
 * Former member and organizer of [NCKU History Convey Official Website team].
 * Currently focus on building fun apps, tools development and keep learing.
 
-You can contact me by clicking badge above, or just [submit a new issue] directly XD.
+You can contact me by clicking badge above, or just [submit a new issue] directly~.
 
 [resume]: https://www.cakeresume.com/s--gcn8sN5daZrnEcGfn7vC-w--/b34076026
 [resume-badge]: https://img.shields.io/badge/Résumé-f48300?style=for-the-badge&logoColor=white&logo=rust
