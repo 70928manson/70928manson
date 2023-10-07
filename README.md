@@ -1,20 +1,19 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1653068415/59246/bolb-sunglasses.jpg?1653068415" width="30"/> Hello there!
+# <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30"/> Hello there!
 
-[![resume-badge]][resume]  [![linkedin-badge]](https://www.linkedin.com/in/%E9%96%94%E7%BF%94-%E8%A8%B1-423584256/)
-
-
-Hello! I am Manson. Welcome to my Github page~
+Hi, I am Manson. Welcome to my Github page ~ <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30"/>
 
 * Professional React developer .
-* Former member and organizer of [NCKU History Convey Official Website team].
-* Currently focus on building fun apps, tools development and keep learing.
+* 2021 official website frontend developer of [NCKU History Convey].
+* Currently focus on building fun apps and keep learing.
 
-You can contact me by clicking badge above, or just [submit a new issue] directly~.
+You can contact me by clicking badge below, or just [submit a new issue] directly. <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30"/>
+
+[![resume-badge]][resume]  [![linkedin-badge]](https://www.linkedin.com/in/%E9%96%94%E7%BF%94-%E8%A8%B1-423584256/)
 
 [resume]: https://www.cakeresume.com/s--gcn8sN5daZrnEcGfn7vC-w--/b34076026
 [resume-badge]: https://img.shields.io/badge/Résumé-f48300?style=for-the-badge&logoColor=white&logo=rust
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[NCKU History Convey Official Website team]: https://www.facebook.com/nckuhisdrama
+[NCKU History Convey]: https://www.facebook.com/nckuhisdrama
 
 [submit a new issue]: https://github.com/70928manson/70928manson/issues/new
 
