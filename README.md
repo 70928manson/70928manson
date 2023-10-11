@@ -16,5 +16,3 @@ You can contact me by clicking badge below, or just [submit a new issue] directl
 [NCKU History Convey]: https://www.facebook.com/nckuhisdrama
 
 [submit a new issue]: https://github.com/70928manson/70928manson/issues/new
-
-![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif)
