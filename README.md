@@ -5,7 +5,7 @@ Welcome to my Github page ~ <img src="https://emojis.slackmojis.com/emojis/image
 
 * Professional React developer .
 * 2021 official website frontend developer of [NCKU History Convey].
-* Working on a medical IoT startup company to improve the medical industry.
+* Working on a medical IoT company to improve the medical industry.
 * Like to build fun apps and keep learing.
 
 You can contact me by clicking badge below, or just [submit a new issue] directly. <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30"/>
