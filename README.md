@@ -10,7 +10,7 @@ Welcome to my Github page ~ <img src="https://emojis.slackmojis.com/emojis/image
 
 You can contact me by clicking badge below, or just [submit a new issue] directly. <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30"/>
 
-[![resume-badge]][resume]  [![linkedin-badge]](https://www.linkedin.com/in/%E9%96%94%E7%BF%94-%E8%A8%B1-423584256/)
+[![linkedin-badge]](https://www.linkedin.com/in/%E9%96%94%E7%BF%94-%E8%A8%B1-423584256/)
 
 [resume]: https://www.cakeresume.com/s--gcn8sN5daZrnEcGfn7vC-w--/b34076026
 [resume-badge]: https://img.shields.io/badge/Résumé-f48300?style=for-the-badge&logoColor=white&logo=rust
