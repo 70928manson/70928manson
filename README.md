@@ -4,7 +4,7 @@ Hi, I am Manson.
 Welcome to my Github page ~ <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30"/>
 
 * Frontend Engineer at **Garena** (SEA Group) – crafting interactive web experiences for **gaming and digital campaigns**.  
-* Previously built a hospital-grade **UDI system** at a medical IoT startup, enhancing surgical tracking and inventory accuracy.  
+* Developed a hospital-grade **UDI system** at a medical IoT startup, improving surgical tracking and inventory accuracy.  
 * Passionate about clean code, delightful UI, and building fun tools in my free time.  
 * Tech stack: **Vue 3**, **React**, **TypeScript**, and more.  
 * 2021 official website frontend developer of [NCKU History Convey].
